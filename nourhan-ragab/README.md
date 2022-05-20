@@ -21,3 +21,31 @@ Our results can be used for evidence based decisions, such as benching the team 
 As a first milestone, this framework will be incorporated in PMSys and used in the Norwegian the elite female soccer league, Toppserien, but the overall approach can be part of a standardized athlete performance monitoring system that is globally used by athletes in all sports. 
 
 **_Keywords_** machine learning (ML), artificial intelligence (AI), long short-term memory (LSTM), univariate, deep learning, time series prediction, female soccer, Tsai, Python, Amazon Web Services (AWS)
+
+
+## Instructions
+
+We present a single- and multi-step time series prediction framework implemented in Python based on the [Tsai](https://github.com/timeseriesAI/tsai) deep learning library.
+
+Clone the repository:
+```
+git clone https://github.com/simula/pmsys
+```
+
+Navigate to project directory:
+```
+cd nourhan-ragab
+```
+
+Install requirements:
+```
+pip install -r requirements.txt
+```
+
+Run Jupyter Notebook:
+```
+jupyter notebook
+```
+
+Navigate to the folders `Team A` and `Team B` to run the desired notebook.
+
