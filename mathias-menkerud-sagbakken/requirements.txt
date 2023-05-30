@@ -1,0 +1,240 @@
+absl-py==1.2.0
+aiohttp @ file:///C:/ci/aiohttp_1646806581161/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+alembic==1.9.2
+argon2-cffi==21.3.0
+argon2-cffi-bindings==21.2.0
+asttokens==2.0.8
+astunparse==1.6.3
+async-timeout @ file:///tmp/build/80754af9/async-timeout_1637851218186/work
+attrs==22.1.0
+autopage==0.5.1
+backcall==0.2.0
+beautifulsoup4==4.11.1
+bleach==5.0.1
+blinker==1.4
+blis==0.7.8
+brotlipy==0.7.0
+cachetools==5.2.0
+catalogue==2.0.8
+catboost==1.1.1
+certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
+cffi @ file:///C:/Windows/Temp/abs_6808y9x40v/croots/recipe/cffi_1659598653989/work
+charset-normalizer==2.1.1
+click==8.1.3
+cliff==4.1.0
+cloudpickle==2.2.1
+cmaes==0.9.1
+cmd2==2.4.3
+cmdstanpy==1.1.0
+colorama @ file:///C:/Windows/TEMP/abs_9439aeb1-0254-449a-96f7-33ab5eb17fc8apleb4yn/croots/recipe/colorama_1657009099097/work
+colorlog==6.7.0
+convertdate==2.4.0
+cryptography @ file:///C:/ci/cryptography_1652101729823/work
+cuda-python==11.7.1
+cvxopt==1.3.0
+cvxpy==1.3.0
+cycler==0.11.0
+cymem==2.0.6
+Cython==0.29.32
+darts==0.23.1
+debugpy==1.6.3
+decorator==5.1.1
+defusedxml==0.7.1
+Deprecated==1.2.13
+dm-tree==0.1.8
+ecos==2.0.12
+entrypoints==0.4
+ephem==4.1.4
+et-xmlfile==1.1.0
+exceptiongroup==1.1.0
+executing==1.0.0
+fancyimpute==0.7.0
+fastai==2.7.9
+fastcore==1.5.25
+fastdownload==0.0.7
+fastjsonschema==2.16.1
+fastprogress==1.0.3
+flatbuffers @ file:///home/ktietz/cip/python-flatbuffers_1634039120618/work
+fonttools==4.37.1
+frozenlist @ file:///C:/ci_310/frozenlist_1642081127310/work
+fsspec==2023.1.0
+future==0.18.3
+gast==0.4.0
+google-auth==2.11.0
+google-auth-oauthlib==0.4.6
+google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
+graphviz==0.20.1
+greenlet==2.0.2
+grpcio==1.48.1
+h5py @ file:///C:/ci/h5py_1659089830381/work
+hijri-converter==2.2.4
+holidays==0.19
+hyperopt==0.2.7
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+imbalanced-learn==0.9.1
+importlib-metadata @ file:///C:/ci/importlib-metadata_1648544469310/work
+iniconfig==2.0.0
+IProgress==0.4
+ipykernel==6.15.2
+ipython==8.5.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+jedi==0.18.1
+Jinja2==3.1.2
+joblib==1.1.0
+jsonschema==4.15.0
+jupyter-core==4.11.1
+jupyter_client==7.3.5
+jupyterlab-pygments==0.2.2
+jupyterlab-widgets==3.0.5
+keras==2.11.0
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver==1.4.4
+knnimpute==0.1.0
+korean-lunar-calendar==0.3.1
+langcodes==3.3.0
+libclang==14.0.6
+lightgbm==3.3.5
+lightning-utilities==0.6.0.post0
+llvmlite==0.39.1
+LunarCalendar==0.0.9
+lxml==4.9.1
+Mako==1.2.4
+Markdown==3.4.1
+MarkupSafe==2.1.1
+matplotlib==3.5.3
+matplotlib-inline==0.1.6
+mistune==2.0.4
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci_310/mkl_random_1643050563308/work
+mkl-service==2.4.0
+multidict @ file:///C:/b/abs_49gd2k2bsh/croots/recipe/multidict_1662369343444/work
+murmurhash==1.0.8
+mysql-connector-python==8.0.32
+mysqlclient==2.1.1
+nbclient==0.6.7
+nbconvert==7.0.0
+nbformat==5.4.0
+nest-asyncio==1.5.5
+networkx==3.0
+nfoursid==1.0.1
+nose==1.3.7
+notebook==6.4.12
+numba==0.56.2
+numpy==1.22.4
+oauthlib==3.2.1
+openpyxl==3.0.10
+opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
+optuna==2.10.1
+osqp==0.6.2.post8
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.4.4
+pandocfilters==1.5.0
+parso==0.8.3
+pathy==0.6.2
+patsy==0.5.2
+pbr==5.11.1
+pickleshare==0.7.5
+Pillow==9.2.0
+plotly==5.13.0
+pluggy==1.0.0
+pmdarima==2.0.2
+preshed==3.0.7
+prettytable==3.6.0
+prometheus-client==0.14.1
+prompt-toolkit==3.0.31
+prophet==1.1.2
+protobuf==3.19.4
+psutil==5.9.2
+pure-eval==0.2.2
+py4j==0.10.9.7
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic==1.9.2
+Pygments==2.13.0
+PyJWT @ file:///C:/ci/pyjwt_1657529477795/work
+PyMeeus==0.5.12
+pyod==1.0.7
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_7f_7lba6rl/croots/recipe/pyparsing_1661452540662/work
+pyperclip==1.8.2
+pyreadline3==3.4.1
+pyrsistent==0.18.1
+PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
+pytest==7.2.1
+python-dateutil==2.8.2
+pytorch-forecasting==0.10.3
+pytorch-lightning==1.9.0
+pyts==0.12.0
+pytz==2022.2.1
+pywin32==304
+pywinpty==2.0.7
+PyYAML==6.0
+pyzmq==23.2.1
+qdldl==0.1.5.post3
+requests @ file:///C:/ci/requests_1657735340829/work
+requests-oauthlib==1.3.1
+rsa==4.9
+scikit-learn==1.1.2
+scipy==1.8.1
+scs==3.2.2
+seaborn==0.12.0
+Send2Trash==1.8.0
+shap==0.41.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+skforecast==0.4.1
+sktime==0.13.2
+slicer==0.0.7
+smart-open==5.2.1
+soupsieve==2.3.2.post1
+spacy==3.4.1
+spacy-legacy==3.0.10
+spacy-loggers==1.0.3
+SQLAlchemy==2.0.1
+srsly==2.4.4
+stack-data==0.5.0
+statsforecast==1.4.0
+statsmodels==0.13.2
+stevedore==4.1.1
+tbats==1.1.2
+tenacity==8.2.1
+tensorboard==2.11.2
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit @ file:///C:/tf/b/tensorboard-plugin-wit_1660162132996/work/tensorboard_plugin_wit-1.8.1-py3-none-any.whl
+tensorflow==2.11.0
+tensorflow-estimator==2.11.0
+tensorflow-gpu==2.10.0
+tensorflow-intel==2.11.0
+tensorflow-io-gcs-filesystem==0.27.0
+tensorflow-probability==0.19.0
+termcolor==2.0.1
+terminado==0.15.0
+thinc==8.1.0
+threadpoolctl==3.1.0
+tinycss2==1.1.1
+tomli==2.0.1
+torch==1.13.0
+torchaudio==0.13.0
+torchmetrics==0.11.1
+torchvision==0.14.0
+tornado==6.2
+tqdm==4.64.1
+traitlets==5.3.0
+tsai==0.3.1
+typer==0.4.2
+typing_extensions @ file:///C:/Windows/TEMP/abs_dd2d0moa85/croots/recipe/typing_extensions_1659638831135/work
+urllib3==1.26.12
+wasabi==0.10.1
+wcwidth==0.2.5
+webencodings==0.5.1
+Werkzeug==2.2.2
+widgetsnbextension==3.5.2
+win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
+wincertstore==0.2
+wrapt @ file:///C:/Windows/Temp/abs_7c3dd407-1390-477a-b542-fd15df6a24085_diwiza/croots/recipe/wrapt_1657814452175/work
+xarray==2023.2.0
+xgboost==1.6.2
+yarl @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_e5nlunspj6/croots/recipe/yarl_1661437086516/work
+zipp @ file:///C:/ci/zipp_1652255909324/work
