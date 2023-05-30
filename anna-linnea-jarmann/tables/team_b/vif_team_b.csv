@@ -1,0 +1,16 @@
+,Covariate,VIF
+1,atl,2478195349.873
+2,weekly_load,2478192622.523
+4,strain,13.176
+6,ctl28,9.500
+7,ctl42,8.908
+3,monotony,6.098
+5,acwr,2.536
+9,mood,1.720
+14,stress,1.620
+8,fatigue,1.539
+12,sleep_quality,1.389
+13,soreness,1.371
+0,daily_load,1.272
+10,readiness,1.265
+11,sleep_duration,1.239

@@ -1,0 +1,5 @@
+player_name;duration;event;prior_injury;acwr;readiness;fatigue
+TeamA-0362cdd5-7a63-480a-a46a-62a99fb1692f;205.0;False;False;[5.99790063 … 1.42213795];[10. …10.];[ 3. … 5.]
+TeamA-560cb066-a8ae-412f-b09f-0d2a6aa0cf05;37.0;True;False;[5.9970015 … 0.80963105];[ 8. … 8.];[ 3. … 4.]
+TeamA-560cb066-a8ae-412f-b09f-0d2a6aa0cf05;12.0;True;True;[0.80963105 … 0.54489259];[ 8. … 6.];[ 4. … 3.]
+TeamA-560cb066-a8ae-412f-b09f-0d2a6aa0cf05;158.0;True;True;[0.54489259 … 1.41845469];[ 6. … 4.];[ 3. … 2.]

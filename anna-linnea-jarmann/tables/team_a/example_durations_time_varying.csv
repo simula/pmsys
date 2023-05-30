@@ -1,0 +1,9 @@
+player_name;start;stop;event;acwr;readiness;fatigue
+player 1;0;1;False;5.97;10.0;3.0
+player 1;1;2;False;5.98;9.0;4.0
+player 1;…;…;…;…;…;…
+player 1;204;205;False;1.4895002202750993;10.0;5.0
+player 2;0;1;False;5.997001499250375;8.0;3.0
+player 2;1;2;False;5.998342541436463;8.0;2.0
+player 2;…;…;…;…;…;…
+player 2;36;37;True;0.4632847533632287;8.0;3.0
